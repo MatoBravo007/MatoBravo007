@@ -15,11 +15,8 @@
 <div align="center"><img src="assets/header-sobre.svg" /></div>
 
 ```
-> nome .......... Matheus
-> alias ......... @Mato_Bravo007
-> classe ........ vibe coder
-> especialidade . apps desktop, automação e ferramentas internas
-> modo op ....... código gerado na conversa, testado na prática, ajustado sem dó
+> Matheus — vibe coder
+> apps desktop, automação e ferramentas internas
 ```
 
 <div align="center"><img src="assets/divider.svg" width="420" /></div>

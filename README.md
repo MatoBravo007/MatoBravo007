@@ -12,7 +12,7 @@
 
 <div align="center"><img src="assets/divider.svg" width="420" /></div>
 
-### `❖` TABLETE DE MEMÓRIA // SOBRE MIM
+<div align="center"><img src="assets/header-sobre.svg" /></div>
 
 ```
 > nome .......... Matheus
@@ -24,7 +24,7 @@
 
 <div align="center"><img src="assets/divider.svg" width="420" /></div>
 
-### `❖` CHARMS EQUIPADOS
+<div align="center"><img src="assets/header-charms.svg" /></div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,electron,vite,sqlite,git,github,vscode&theme=dark" />
@@ -32,7 +32,8 @@
 
 <div align="center"><img src="assets/divider.svg" width="420" /></div>
 
-### `❖` JORNADA PELO ABISMO
+<div align="center"><img src="assets/header-jornada.svg" /></div>
+
 - 🗡️ Apps desktop de verdade (Electron) que rodam sem depender de servidor
 - 🕸️ Automação de planilhas e relatórios que geram sozinhos
 - 🔦 Ferramentas internas que resolvem um problema real de alguém

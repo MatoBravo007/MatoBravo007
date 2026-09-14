@@ -4,13 +4,9 @@
 
 </div>
 
-<p align="center">
-  <sub><b>STATUS</b> VAGANDO &nbsp;·&nbsp; <b>CLASSE</b> VESSEL &nbsp;·&nbsp; <b>REINO</b> HALLOWNEST &nbsp;·&nbsp; <b>ALIAS</b> @Mato_Bravo007</sub>
-</p>
-
 <div align="center">
 
-*Hallownest chama. Lá embaixo, tudo é silêncio — até o próximo commit.*
+<sub><i>sem mente para hesitar · sem voz para reclamar · só o vazio, e o código que nasce dele</i></sub>
 
 </div>
 

@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<sub><i>sem mente para hesitar · sem voz para reclamar · só o vazio, e o código que nasce dele</i></sub>
+<sub><i>no mind to hesitate · no voice to protest · only the void, and the code born from it</i></sub>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```
 > Matheus — vibe coder
-> apps desktop, automação e ferramentas internas
+> desktop apps, automation and internal tools
 ```
 
 <div align="center"><img src="assets/divider.svg" width="420" /></div>
@@ -31,9 +31,9 @@
 
 <div align="center"><img src="assets/header-jornada.svg" /></div>
 
-- 🗡️ Apps desktop de verdade (Electron) que rodam sem depender de servidor
-- 🕸️ Automação de planilhas e relatórios que geram sozinhos
-- 🔦 Ferramentas internas que resolvem um problema real de alguém
+- 🗡️ Real desktop apps (Electron) that run without depending on a server
+- 🕸️ Spreadsheet and report automation that generates itself
+- 🔦 Internal tools that solve someone's real problem
 
 <div align="center"><img src="assets/divider.svg" width="420" /></div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<sub>ACESSOS AO PERFIL: <img src="https://komarev.com/ghpvc/?username=MatoBravo007&color=cfc9b8&style=flat&label=" height="16" /></sub>
+<sub>PROFILE VIEWS: <img src="https://komarev.com/ghpvc/?username=MatoBravo007&color=cfc9b8&style=flat&label=" height="16" /></sub>
 
 <img src="assets/banner.svg" width="100%" />
 

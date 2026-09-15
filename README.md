@@ -27,6 +27,11 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,electron,vite,sqlite,git,github,vscode&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-141414?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/ChatGPT-141414?style=for-the-badge&logoColor=white" />
+</p>
+
 <div align="center"><img src="assets/divider.svg" width="420" /></div>
 
 <div align="center"><img src="assets/header-journey.svg" /></div>

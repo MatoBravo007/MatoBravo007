@@ -42,6 +42,12 @@
 
 <div align="center"><img src="assets/divider.svg" width="420" /></div>
 
+<div align="center"><img src="assets/header-projects.svg" /></div>
+
+**[mte-thomson-catalogo](https://github.com/MatoBravo007/mte-thomson-catalogo)** — desktop catalog app (Electron + SQL Server) with an embedded backend, no separate server process required. Built for real day-to-day use at a manufacturing company.
+
+<div align="center"><img src="assets/divider.svg" width="420" /></div>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MatoBravo007&show_icons=true&hide_border=true&bg_color=000000&title_color=E3DDC9&icon_color=CFC9B8&text_color=9a968a" height="165" />

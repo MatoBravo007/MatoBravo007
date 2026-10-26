@@ -24,10 +24,12 @@
 <div align="center"><img src="assets/header-charms2.svg" /></div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,electron,vite,sqlite,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,python,js,nodejs,react,electron,vite,git,github&theme=dark" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/WPF-141414?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-141414?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-141414?style=for-the-badge&logo=claude&logoColor=D97757" />
   <img src="https://img.shields.io/badge/ChatGPT-141414?style=for-the-badge&logoColor=white" />
 </p>
@@ -36,7 +38,7 @@
 
 <div align="center"><img src="assets/header-journey.svg" /></div>
 
-- 🗡️ Real desktop apps (Electron) that run without depending on a server
+- 🗡️ Real native desktop apps (C# / WPF) that run without depending on a server
 - 🕸️ Spreadsheet and report automation that generates itself
 - 🔦 Internal tools that solve someone's real problem
 
